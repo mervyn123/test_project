@@ -93,11 +93,11 @@ Ext.application({
                     var data1= [{
                         name: '1',
                         email: 'mamimamihong@dsfsdf.com',
-                        phone: '11111111111111111'
+                        phone: '222222222222222222222'
                     }, {
                         name: '2',
-                        email: 'bart@simpsons.com',
-                        phone: '555-222-1234'
+                        email: 'vbvcbcvbcb3@lad9f.com',
+                        phone: '09484-38593-2344'
                     }, {
                         name: '3',
                         email: 'homer@simpsons.com',
