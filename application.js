@@ -96,7 +96,7 @@ Ext.application({
                         phone: '345365-345435'
                     }, {
                         name: '2',
-                        email: 'bart@simpsons.com',
+                        email: 'g9dt94t@fsf.net',
                         phone: '555-222-1234'
                     }, {
                         name: '3',
