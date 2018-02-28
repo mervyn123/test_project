@@ -92,7 +92,7 @@ Ext.application({
                 handler: function(btn){
                     var data1= [{
                         name: '1',
-                        email: 'mamimamihong@dsfsdf.com',
+                        email: '123213213.com',
                         phone: '345365-345435'
                     }, {
                         name: '2',
